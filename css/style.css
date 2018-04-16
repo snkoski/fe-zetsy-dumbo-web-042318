@@ -24,7 +24,7 @@ header h1{
   border-bottom: 1px solid #ccc;
 }
 
-header h1 a {
+header a {
   color: rgb(152,173,166);
   text-decoration: none;
   margin: 0 0 5px;
