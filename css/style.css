@@ -27,6 +27,7 @@ header a {
   text-decoration: none;
   margin: 0 0 5px;
   font-size: 5em;
+  font-weight: normal;
 }
 
 header a:hover {
