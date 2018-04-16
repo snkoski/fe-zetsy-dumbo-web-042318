@@ -28,6 +28,7 @@ header a {
   margin: 0 0 5px;
   font-size: 4em;
   font-weight: normal;
+  font-family: 'Baskerville', serif;
 }
 
 header a:hover {
