@@ -18,6 +18,10 @@ body {
 }
 
 /* Write all remaining styles here */
+.wrapper {
+  
+}
+
 header h1 {
   border-bottom: 1px solid #ccc;
 }
