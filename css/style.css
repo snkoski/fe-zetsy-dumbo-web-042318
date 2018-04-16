@@ -20,8 +20,8 @@ body {
 /* Write all remaining styles here */
 
 
-header h1 {
-  
+header {
+  border-bottom: 1px solid #ccc;
 }
 
 header h1 a {
@@ -32,7 +32,14 @@ header h1 a {
   font-weight: bold;
   font-family: 'Baskerville', serif;
   padding-bottom: 10px;
-  border-bottom: 1px solid #ccc;
+  
+}
+
+
+
+
+
+
 }
 
 header a:hover {
