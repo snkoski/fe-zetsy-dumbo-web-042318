@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 .wrapper {
-  
+  width: 960px;
 }
 
 header h1 {
